@@ -1,2 +1,3 @@
 print('This is a file from GitHub repository')
-pass
+
+print('These are new local changes')
